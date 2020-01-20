@@ -9,3 +9,5 @@
 #### 2. Type : ./init-repo-scss.sh in your terminal
 
 #### To start your local host preview type npm run dev
+
+# ! important for mac os the last part of the script is not working so you need to add the script dev and build on the package.json !
