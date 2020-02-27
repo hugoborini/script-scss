@@ -10,4 +10,9 @@
 
 #### To start your local host preview type npm run dev
 
-# ! important for mac os the last part of the script is not working so you need to add the script dev and build on the package.json !
+# __! important for mac os the last part of the script is not working so you need to add the script dev and build on the package.json !__
+
+# __so if your mac os user you need too past this too line in packgage.json__
+
+# `"dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",`
