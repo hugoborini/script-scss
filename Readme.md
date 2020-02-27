@@ -15,4 +15,5 @@
 # __so if your mac os user you need too past this too line in packgage.json :__
 
 `"dev": "parcel src/index.html",`
+
 `"build": "parcel build src/index.html",`
