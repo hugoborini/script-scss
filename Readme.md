@@ -12,7 +12,7 @@
 
 # __! important for mac os the last part of the script is not working so you need to add the script dev and build on the package.json !__
 
-# __so if your mac os user you need too past this too line in packgage.json :__
+# __so if you are mac os user you need too past this two line in packgage.json :__
 
 `"dev": "parcel src/index.html",`
 
